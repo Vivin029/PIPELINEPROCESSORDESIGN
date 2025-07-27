@@ -2,7 +2,7 @@
 
 COMPANY :CODTECH IT SOLUTIONS
 
-NAME :kEERTHIS VIVIN V
+NAME :KEERTHIS VIVINV
 
 INTERN ID :CT04DH977
 
@@ -26,4 +26,6 @@ The testbench (tb_pipeline_processor) verifies this processor design by providin
 
  OUTPUT:
 
- 
+<img width="1365" height="638" alt="Image" src="https://github.com/user-attachments/assets/347d8843-e079-4a0e-a9a4-7e03c3c3a51d" />
+
+<img width="1328" height="627" alt="Image" src="https://github.com/user-attachments/assets/6e1ea897-4a17-4681-b160-08955143941f" /> 
